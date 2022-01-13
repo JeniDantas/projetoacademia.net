@@ -1,0 +1,33 @@
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\consciencia.dll.config
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\consciencia.dll
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\consciencia.pdb
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\source\repos\consciencia\consciencia\obj\Debug\consciencia.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\source\repos\consciencia\consciencia\obj\Debug\consciencia.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\consciencia\consciencia\obj\Debug\consciencia.dll
+C:\Users\Lucas\source\repos\consciencia\consciencia\obj\Debug\consciencia.pdb
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\System.Data.SqlClient.dll
+C:\Users\Lucas\source\repos\consciencia\consciencia\bin\System.Data.SqlClient.xml
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\consciencia.dll.config
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\consciencia.dll
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\consciencia.pdb
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\System.Data.SqlClient.dll
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\bin\System.Data.SqlClient.xml
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\obj\Debug\consciencia.csprojResolveAssemblyReference.cache
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\obj\Debug\consciencia.csproj.CoreCompileInputs.cache
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\obj\Debug\consciencia.dll
+D:\Dropbox\PESSOAL\JENI\webforms\consciencia\consciencia\obj\Debug\consciencia.pdb
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\consciencia.dll.config
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\consciencia.dll
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\consciencia.pdb
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\System.Data.SqlClient.dll
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\bin\System.Data.SqlClient.xml
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\obj\Debug\consciencia.csproj.AssemblyReference.cache
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\obj\Debug\consciencia.csproj.CoreCompileInputs.cache
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\obj\Debug\consciencia.dll
+C:\Users\Jenifer\OneDrive - UFN - Universidade Franciscana\Desktop\Projeto Atos\consciencia\consciencia\obj\Debug\consciencia.pdb

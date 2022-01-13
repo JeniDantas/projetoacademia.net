@@ -1,0 +1,68 @@
+#titulo{
+    width: 100%;
+    height: 20%;
+    float: left;
+    text-align: center;
+}
+#titulo h1{
+    color:#583726 ;
+    font-size: 3.5em;
+}
+
+#funcionalidades{
+    width: 100%;
+    height: 10%;
+}
+
+#funcionalidades button{
+    border-style: none;
+    color: whitesmoke;
+    width: 200px;
+    height: 50px;
+    float: right;
+    margin-right: 10%;
+    background-color: #8f773f;
+}
+
+
+#cards{
+    width: 100%;
+    height: 70%;
+    float: left;
+}
+
+#cards ul{
+    list-style: none;
+}
+
+#cards ul li{
+    padding: 10px;
+}
+
+.card-infos {
+    padding: 2px 16px;
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.card-cabecalho{
+    height: 50px;
+    padding-top: 10px;
+}
+
+.card-infos .button{
+    float: right;
+}
+
+.card-titulo{
+    color: #FDB515;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    float: left;
+    margin-block: 0;
+}
+
+.card-corpo{
+    margin-bottom: 15px;
+}
